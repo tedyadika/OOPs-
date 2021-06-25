@@ -24,4 +24,3 @@ class Player:
     def stop(self):
         print(self.name + ' is Stoping')
 
-
